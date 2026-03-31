@@ -2,8 +2,8 @@
 
 ## 👨‍🎓 Student Details
 
-**Name:** Your Name
-**Roll Number:** Your Roll No
+**Name:** Devansh Kaushik
+**Roll Number:** 24BAI10645
 
 ---
 
@@ -13,7 +13,7 @@ This project is part of the Open Source Software course and focuses on analyzing
 
 The repository contains:
 
-* A structured analysis of Git (in the report)
+* A structured analysis of Git
 * Five Bash scripts demonstrating Linux and open-source concepts
 * A README explaining setup and execution
 
@@ -156,8 +156,8 @@ sudo apt install git
 ### Step 2: Clone the repository
 
 ```
-git clone https://github.com/your-username/your-repo-name
-cd your-repo-name
+git clone https://github.com/devanshk4/oss-audit-24BAI10645
+cd oss-audit-24BAI10645
 ```
 
 ---

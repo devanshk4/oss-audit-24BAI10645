@@ -3,7 +3,7 @@
 ## 👨‍🎓 Student Details
 
 **Name:** Devansh Kaushik
-**Roll Number:** 24BAI10645
+**Reg Number:** 24BAI10645
 
 ---
 
